@@ -44,7 +44,11 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 ## 📷 Preview
 
-🔹 Em breve...
+## 📷 Preview
+
+<p align="center">
+  <img src="https://github.com/devcauaferreira/ProjetoIMC/blob/main/interface.jpeg?raw=true" width="400">
+</p>
 
 ---
 
